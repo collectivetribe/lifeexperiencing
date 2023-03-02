@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ![selfie](selfie.jpg =320x212)
+<img src="selfie.jpg" width="300" height="212">
 
 我是品嘉PENG，
 
