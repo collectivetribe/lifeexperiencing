@@ -4,15 +4,13 @@ title: 關於此，關於我。
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+我是品嘉PENG，
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+我正在我的生命過程中探索著這個宇宙，
 
+在這過程中，我有好多感受，
 
-[jekyll-organization]: https://github.com/jekyll
+我將於此分享我的所見所聞所想，
+
+以及很多生活中的小事。
