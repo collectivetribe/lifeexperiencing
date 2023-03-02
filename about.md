@@ -4,6 +4,7 @@ title: 關於此，關於我。
 permalink: /about/
 ---
 
+![selfie](selfie.jpg)
 
 我是品嘉PENG，
 
