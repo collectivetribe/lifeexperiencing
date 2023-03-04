@@ -4,7 +4,7 @@ title: 關於此，關於我。
 permalink: /about/
 ---
 
-![selfie]({{"/assets/img/selfie.jpg" | relative_url }} )
+![]({{"/assets/img/selfie.jpg" | relative_url }} )
 
 我是品嘉PENG，
 
