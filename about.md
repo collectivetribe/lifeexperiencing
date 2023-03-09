@@ -6,7 +6,7 @@ permalink: /about/
 
 ![]({{"/assets/img/selfie.jpg" | relative_url }} )
 
-我是品嘉PENG，
+I'm PENG，
 
 我正在我的生命過程中探索著這個宇宙，
 
