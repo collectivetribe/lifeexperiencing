@@ -1,12 +1,10 @@
 ---
 layout: page
-title: 關於此，關於我。
+title: 關於此。
 permalink: /about/
 ---
 
-![]({{"/assets/img/selfie.jpg" | relative_url }} )
 
-I'm PENG，
 
 我正在我的生命過程中探索著這個宇宙，
 
