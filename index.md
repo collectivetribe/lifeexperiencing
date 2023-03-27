@@ -11,5 +11,5 @@ layout: home
 <script>addBackToTop({
   diameter: 56,
   backgroundColor: 'rgb(255, 82, 82)',
-  textColor: '#fff'
+  textColor: '#17A589'
 })</script>
