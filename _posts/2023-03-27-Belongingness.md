@@ -32,7 +32,7 @@ Mama earth   Mama earth
 
 Where we belong to?   
 
-Were we all at there?   
+Were we all from there?   
 
-Were we all there with you?   
+Were we all at there with you?   
 
