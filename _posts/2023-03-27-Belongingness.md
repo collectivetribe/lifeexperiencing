@@ -14,7 +14,7 @@ What you’re trying to do?
 
 Homeless at the park    
 
-I know you Canadian  
+You're Canadian  
 
 But where you belong to?  
 
