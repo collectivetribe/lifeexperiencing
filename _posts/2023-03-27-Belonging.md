@@ -15,6 +15,7 @@ What you’re trying to do?
 Homeless at the park    
 
 I know you Canadian  
+
 But where you belong to?  
 
 Singer on the stage  
