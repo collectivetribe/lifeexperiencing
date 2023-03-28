@@ -6,7 +6,7 @@ Dear friend where you belong to?
 
 Coming from a place called France  
 
-Where you going to?  
+Where you're going to?  
 
 It’s a long way to here   
 
