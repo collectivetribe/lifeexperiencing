@@ -20,7 +20,7 @@ But where you belong to?
 
 Singer on the stage  
 
-People worship you  
+See people worship you  
 
 But where you belong to?   
 
