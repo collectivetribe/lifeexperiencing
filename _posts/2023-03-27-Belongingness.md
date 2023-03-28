@@ -14,7 +14,7 @@ What you’re trying to do?
 
 Homeless at the park    
 
-You're Canadian  
+Know you're Canadian  
 
 But where you belong to?  
 
@@ -34,5 +34,5 @@ Where we belong to?
 
 Were we all from there?   
 
-Were we all at there with you?   
+Were we all from there with you?   
 
